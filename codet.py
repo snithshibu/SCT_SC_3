@@ -113,7 +113,6 @@ print("\nYour entered sudoku grid is:")
 print_board(board)
 
 print("\nSolving your sudoku puzzle....")
-print(" ")
 
 print("\nYour solved puzzle is:")
 solve(board)
